@@ -1,0 +1,8 @@
+backtesting
+pandas
+numpy
+talib
+seaborn
+matplotlib  
+ipython
+python-dateutil
