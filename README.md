@@ -11,13 +11,17 @@ This project is a trading strategy that integrates concepts from the Smart Money
 
 ### Visual Insights
 
+#### Simulated trades example
+![Trades of a single run](images\backtest_example.JPG)
+*Complete simulated run of trades with a specific strategy and parameters*
+
 #### Heatmaps
-![Heatmap Visualization](path/to/heatmap_image.jpg)
-*TO DO: Heatmaps illustrating strategy performance across different parameter settings.*
+![Heatmap Visualization](images/heatmap.JPG)
+*Heatmap illustrating optimization of specific parameters*
 
 #### Order Blocks and Trades
-![Order Blocks and Trades](path/to/order_blocks_trades_image.jpg)
-*TO DO: Visual representation of order blocks and simulated trades executed by the strategy.*
+![Order Blocks and Trades](images\candlestick_chart.JPG)
+*Example of traded order blocks*
 
 ## Installation
 
