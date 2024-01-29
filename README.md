@@ -53,6 +53,7 @@ Follow these steps to set up and run the project:
 ### Running the Project
 After installation, you can run your scripts or modules within the project's directory.
 
+## Acknowledgements
 - LuxAlgo for the Smart Money Concept Indicator
 
 ## Built With
