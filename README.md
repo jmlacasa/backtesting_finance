@@ -1,7 +1,7 @@
 # Backtesting Trading Strategies
 
 ## Description
-This project is a trading strategy that integrates concepts from the Smart Money Concept Indicator, specifically focusing on bullish and bearish order blocks across three different temporalities. Utilizing the Backtesting.py library, the tool is designed to simulate and optimize trading strategies in historical market conditions, offering insights into the potential viability and profitability of these strategies.
+This project is a trading strategy that integrates concepts from the [Smart Money Concept Indicator](https://www.luxalgo.com/blog/smart-money-concept-indicator-for-tradingview-free), specifically focusing on bullish and bearish order blocks across three different temporalities. Utilizing the Backtesting.py library, the tool is designed to simulate and optimize trading strategies in historical market conditions, offering insights into the potential viability and profitability of these strategies.
 
 ### Key Features:
 - Integration of bullish and bearish order blocks from the Smart Money Concept Indicator.
