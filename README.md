@@ -12,7 +12,7 @@ This project is a trading strategy that integrates concepts from the Smart Money
 ### Visual Insights
 
 #### Simulated trades example
-![Trades of a single run](images\backtest_example.JPG)
+![Trades of a single run](images/backtest_example.JPG)
 *Complete simulated run of trades with a specific strategy and parameters*
 
 #### Heatmaps
@@ -20,7 +20,7 @@ This project is a trading strategy that integrates concepts from the Smart Money
 *Heatmap illustrating optimization of specific parameters*
 
 #### Order Blocks and Trades
-![Order Blocks and Trades](images\candlestick_chart.JPG)
+![Order Blocks and Trades](images/candlestick_chart.JPG)
 *Example of traded order blocks*
 
 ## Installation
