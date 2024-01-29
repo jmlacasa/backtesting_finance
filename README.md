@@ -13,7 +13,7 @@ This project is a trading strategy that integrates concepts from the [Smart Mone
 
 #### Simulated trades example
 ![Trades of a single run](images/backtest_example.JPG)
-*[Complete simulated run of trades with a specific strategy and parameters](backtest_results_sample/SmartMoneyConcepts_2022-04-01-2023-03-31dates_10-10swing_15-60candles.html)*. Upward arrows are long entries, downward arrows are short entries. Green are profitable trades and red are losing trades.
+*[Complete simulated run of trades with a specific strategy and parameters](backtest_results_sample/SmartMoneyConcepts_2022-04-01-2023-03-31dates_10-10swing_15-60candles.html). Upward arrows are long entries, downward arrows are short entries. Green are profitable trades and red are losing trades.*
 
 #### Heatmaps
 ![Heatmap Visualization](images/heatmap.JPG)
