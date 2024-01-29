@@ -13,15 +13,15 @@ This project is a trading strategy that integrates concepts from the [Smart Mone
 
 #### Simulated trades example
 ![Trades of a single run](images/backtest_example.JPG)
-*Complete simulated run of trades with a specific strategy and parameters*
+*[Complete simulated run of trades with a specific strategy and parameters](backtest_results_sample/SmartMoneyConcepts_2022-04-01-2023-03-31dates_10-10swing_15-60candles.html)*. Upward arrows are long entries, downward arrows are short entries. Green are profitable trades and red are losing trades.
 
 #### Heatmaps
 ![Heatmap Visualization](images/heatmap.JPG)
-*Heatmap illustrating optimization of specific parameters*
+*[Heatmap illustrating optimization of specific parameters](backtest_results_sample/parameter_optimization_10_sw.html). The optimal configuration suggests large order blocks. Without trailing stop loss, 3:1 risk ratio, 20% bigger stop loss than the indicator suggests, 48hs order duration. (further testing demonstrated this to be an overfitted example to these specific market conditions)*
 
 #### Order Blocks and Trades
 ![Order Blocks and Trades](images/candlestick_chart.JPG)
-*Example of traded order blocks*
+*[Example of traded order blocks](backtest_results_sample/candlestick_stop_limit_3meses.html). Structure is visible as dotted lines indicating ChoCh and BOS. An order block (in this case only buy types are visible) is composed by take profit (green upper bound) and stop loss (red lower bound). Limit price is down the middle.*
 
 ## Installation
 
@@ -29,7 +29,7 @@ Follow these steps to set up and run the project:
 
 ### Prerequisites
 
-- **Python**: The project is built using Python. If you don't have Python installed, download and install it from [python.org](https://www.python.org/downloads/). Ensure you have Python 3.6 or later.
+- **Python**: The project is built using Python. If you don't have Python installed, download and install it from [python.org](https://www.python.org/downloads/).
 
 - **CSV with Ticker Data**: You need a CSV file containing ticker data for backtesting. Place this file in the `backtest_data` folder within the project directory.
 
