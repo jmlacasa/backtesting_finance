@@ -39,7 +39,7 @@ Follow these steps to set up and run the project:
 
    ```
    git clone https://github.com/jmlacasa/backtesting_simulation.git
-   cd your-project-name
+   cd backtesting_simulation
    ```
 
 2. **Install Required Libraries**: Use the `requirements.txt` file to install the necessary Python libraries. Run the following command:
